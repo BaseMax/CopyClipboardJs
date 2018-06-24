@@ -9,12 +9,20 @@
 		<h1>Example CopyClipboard.js</h1>
 		<br><br>
 		<button data-copy-text="Hello!">
-			Click , Copy from inline text
+			Click , Copy text
 		</button>
 		<br><br>
 		<label id="label_text" style="display: none;">This is a sample!</label>
 		<button data-copy-from="#label_text">
 			Click , Copy from #id
+		</button>
+		<br><br>
+		<button data-copy-text="5+5" onclick="copy.text(this);">
+			Click , Copy text with onclick
+		</button>
+		<br><br>
+		<button data-copy-from="#label_text" onclick="copy.from(this);">
+			Click , Copy from #id with onclick
 		</button>
 	</body>
 </html>
