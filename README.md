@@ -23,7 +23,7 @@
 
 ## Samples
 
-To view the full details, run the [Example.html](https://github.com/BaseMax/CopyClipboard/blob/master/Example.html) file.
+To view the full details, run the [Example.html](https://github.com/BaseMax/CopyClipboardJs/blob/master/Example.html) file.
 
 #### `data-copy-text`
 ```
@@ -52,4 +52,4 @@ It will be completed in the future.
 
 # License
 
-CopyClipboard is licensed under the [GNU General Public License](https://github.com/BaseMax/CopyClipboard/blob/master/LICENSE).
+CopyClipboard is licensed under the [GNU General Public License](https://github.com/BaseMax/CopyClipboardJs/blob/master/LICENSE).
