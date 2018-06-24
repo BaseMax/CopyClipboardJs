@@ -36,9 +36,16 @@ Enter Text : <input class="input_text" name="text" type="text">
 <button data-copy-from=".input_text">Click , Copy!</button>
 ```
 #### `data-copy-after`
+It will be completed in the future.
+
 
 #### `onclick`
-
+```
+<button data-copy-text="5+5" onclick="copy.text(this);">Click , Copy text with onclick</button>
+```
+```
+<button data-copy-from="#label_text" onclick="copy.from(this);">Click , Copy from #id with onclick</button>
+```
 # License
 
 CopyClipboard is licensed under the [GNU General Public License](https://github.com/BaseMax/CopyClipboard/blob/master/LICENSE).
