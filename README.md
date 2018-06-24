@@ -1,7 +1,7 @@
 # CopyClipboard
  Tiny Library for copy text in clipboard.
 
-![CopyClipboard.min.js File Size](https://img.shields.io/badge/Compressed%20Size-1.4%20KB-blue.svg) ![CopyClipboard.min.js Validation Code](https://img.shields.io/badge/Validation%20Code-No%20Error-green.svg)
+![CopyClipboard.min.js File Size](https://img.shields.io/badge/Compressed%20Size-2%20KB-blue.svg) ![CopyClipboard.min.js Validation Code](https://img.shields.io/badge/Validation%20Code-No%20Error-green.svg)
 
 
 ## Features 
