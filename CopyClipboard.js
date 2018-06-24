@@ -4,8 +4,8 @@
 * @Version : 1.0
 * @Programmer : Max
 * @Date : 2018-06-23
-* @Released under : https://github.com/BaseMax/CopyClipboard/blob/master/LICENSE
-* @Repository : https://github.com/BaseMax/CopyClipboard
+* @Released under : https://github.com/BaseMax/CopyClipboardJs/blob/master/LICENSE
+* @Repository : https://github.com/BaseMax/CopyClipboardJs
 *
 **/
 ;(function(window,document)
