@@ -46,6 +46,10 @@ It will be completed in the future.
 ```
 <button data-copy-from="#label_text" onclick="copy.from(this);">Click , Copy from #id with onclick</button>
 ```
+```
+<button onclick="copy.copy_text('Hello my friend!');">Click , Copy text</button>
+```
+
 # License
 
 CopyClipboard is licensed under the [GNU General Public License](https://github.com/BaseMax/CopyClipboard/blob/master/LICENSE).
